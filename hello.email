@@ -1,0 +1,10 @@
+#email yuqi0618@foxmail.com
+#title From Python
+#name yuqi
+
+你好
+int main()
+{
+    printf("Hello world");
+    return 0;
+}
