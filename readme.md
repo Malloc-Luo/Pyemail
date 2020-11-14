@@ -97,3 +97,11 @@ pyemail send hello.email add yuqi@email.com
 pyemail -s hello.email -a yuqi@email.com
 ```
 
+## 计划更新：
+
+*   支持发送文件附件
+*   支持添加联系人
+*   支持发送html
+*   支持`pop3`接收邮件
+*   适配`Linux`和`Mac os`
+
